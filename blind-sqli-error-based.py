@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 # Lab: https://portswigger.net/web-security/sql-injection/blind/lab-conditional-errors
+# Oracle
 
 import sys
 import requests
