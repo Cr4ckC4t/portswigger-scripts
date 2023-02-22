@@ -7,7 +7,7 @@
 # (Same could be achieved by using macros or Turbo Intruder.)
 
 # credential pair to include every LIMIT lines
-LIMIT=4
+LIMIT=3
 validuser='wiener'
 validpass='peter'
 
